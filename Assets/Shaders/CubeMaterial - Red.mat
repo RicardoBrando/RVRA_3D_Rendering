@@ -56,6 +56,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Ia: 0.1
+    - _Id: 1
+    - _Is: 0.3
     - _Ka: 0.1
     - _Kd: 1
     - _Ks: 0.69
@@ -64,12 +67,13 @@ Material:
     - _S: 50
     - _Smoothness: 50
     m_Colors:
-    - _AmbientColor: {r: 0.41509432, g: 0.3146035, b: 0.2016732, a: 1}
+    - _AmbientColor: {r: 0.58431375, g: 0.58431375, b: 0.58431375, a: 1}
     - _DiffuseColor: {r: 1, g: 0.049433902, b: 0, a: 0}
     - _L: {r: 0, g: 4.14, b: 4.984, a: 0}
     - _L1: {r: 0, g: 0, b: 0, a: 0}
     - _L2: {r: 0, g: 0, b: 0, a: 0}
-    - _LightColor: {r: 0.9433962, g: 0.16481665, b: 0.14684942, a: 0}
+    - _LightColor: {r: 1, g: 1, b: 1, a: 0}
+    - _LightDir: {r: -1.293, g: 1.06, b: -3.585, a: 0}
     - _LightDirection: {r: -0.59, g: 1.06, b: -3.585, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _V: {r: 0, g: 1, b: -1.76, a: 0}
